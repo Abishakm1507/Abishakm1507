@@ -6,7 +6,7 @@
   <h1>Hi, I'm Abisha K M 👋</h1>
   
   <p>
-    <strong>AI & Full-Stack Developer</strong><br>
+    <strong>AI Engineer & Full-Stack Developer</strong><br>
     Building intelligent web applications and real-world ML solutions
   </p>
 
@@ -30,8 +30,6 @@
 I'm a **B.Tech Artificial Intelligence & Data Science** student at **RMK Engineering College** (2023–2027).
 
 I love building **AI-powered applications** and scalable full-stack systems, with special focus on **Computer Vision**, **Healthcare AI**, and **LLMs**.
-
-**Highlight**: Created a **Plant Disease Detection System** using CNN that achieved **97% accuracy**.
 
 ---
 
